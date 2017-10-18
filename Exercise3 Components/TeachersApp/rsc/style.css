@@ -1,0 +1,36 @@
+.container {
+    padding-top: 50px
+}
+
+.idx-label {
+    border-right: 4px solid gray;
+    text-align: center;
+    padding-top: 8px;
+    font-size: 30px;
+    margin: 0;
+}
+
+.container-component {
+    margin: 15px;
+    border-radius: 15px;
+}
+
+list-component .row {
+    margin: 10px;
+}
+
+.list-container label {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.list-container span {
+    font-size: 15px;
+    font-weight: 300;
+    color: gray;
+}
+
+.btn-danger, .btn-success {
+    margin-bottom: 20px;
+}

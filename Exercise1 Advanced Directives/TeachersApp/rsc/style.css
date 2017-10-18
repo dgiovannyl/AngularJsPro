@@ -1,0 +1,32 @@
+.container {
+    padding-top: 50px
+}
+
+.form-control {
+    width: 500px !important;
+}
+
+.red-text {
+    color:red; 
+}
+
+li label {
+    font-size: 32px;
+}
+
+.list-group-item {
+    padding: 0;
+    width: 50%;
+}
+
+.form-control, button {
+    height: 56px;
+}
+
+.center {
+    padding-left: 50%;
+}
+
+.center span {
+    font-size: 32px;
+}

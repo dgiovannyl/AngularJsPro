@@ -1,0 +1,20 @@
+.container {
+    padding-top: 50px
+}
+
+img {
+    height: 200px;
+    max-width: 300px;
+}
+
+.body-directive {
+    padding-top: 10%;
+}
+
+require-directive div {
+    text-align: center;
+}
+
+parent-directive h1{
+    text-align: center;
+}
